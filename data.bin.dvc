@@ -1,0 +1,5 @@
+outs:
+- md5: 96bce96cfd11906863c05bf3a2bd8b9a
+  size: 10485760
+  hash: md5
+  path: data.bin
