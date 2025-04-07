@@ -7,4 +7,5 @@ main branch rules
 this is feature branch
 conflict on purpose 
 >>>>>>> conflict-test
-conflict resolved 
+conflict resolved
+Collaborating via  
