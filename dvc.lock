@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  process:
+    cmd: python3 process.py data.bin size.txt
+    deps:
+    - path: data.bin
+      hash: md5
+      md5: 89ff6f6d54a56bb620c9a468b7a9f442
+      size: 10485768
+    - path: process.py
+      hash: md5
+      md5: 25cd95ac1b7aee28c9874ecc85deb169
+      size: 159
+    outs:
+    - path: size.txt
+      hash: md5
+      md5: dc8923f54a9a9daeb3872384afc96341
+      size: 9

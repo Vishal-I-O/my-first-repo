@@ -1,0 +1,8 @@
+stages:
+  process:
+    cmd: python3 process.py data.bin size.txt
+    deps:
+    - data.bin
+    - process.py
+    outs:
+    - size.txt
