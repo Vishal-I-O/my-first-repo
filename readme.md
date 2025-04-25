@@ -1,2 +1,2 @@
-hi vishal
+main branch rules
 this is feature branch
